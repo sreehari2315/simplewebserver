@@ -126,7 +126,7 @@ Name:SREE HARI K
 Register No:212223230212
 
 
-![Uploading Screenshot 2024-03-27 081614.png…]()
+![Screenshot 2024-03-27 081614](https://github.com/sreehari2315/simplewebserver/assets/139331590/f81001b2-4eb1-48a3-9c3d-e9701984fae2)
 
 ![Screenshot 2024-03-25 153521](https://github.com/sreehari2315/simplewebserver/assets/139331590/aeb1a12b-4912-4295-ad78-594bc9e053c9)
 
