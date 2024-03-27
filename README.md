@@ -124,7 +124,9 @@ httpd.serve_forever()
 Name:SREE HARI K
 
 Register No:212223230212
-![Screenshot 2024-03-13 082741](https://github.com/sreehari2315/simplewebserver/assets/139331590/9cbbc1ca-4def-4765-ad85-b4d637c8f3c5)
+
+
+![Uploading Screenshot 2024-03-27 081614.png…]()
 
 ![Screenshot 2024-03-25 153521](https://github.com/sreehari2315/simplewebserver/assets/139331590/aeb1a12b-4912-4295-ad78-594bc9e053c9)
 
